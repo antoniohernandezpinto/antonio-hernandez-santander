@@ -13,14 +13,6 @@ director and head of the San Luis Educational Center in Valladolid, Spain. It is
 The page can be published using **GitHub Pages**. After enabling Pages in the repository settings, it will be available at a URL such as:
 
 ```
-https://YOUR-USERNAME.github.io/antonio-hernandez-santander/
+https://antoniohernandezpinto.github.io/antonio-hernandez-santander/
 ```
-
-## Instructions
-1. Upload the files to this repository.
-2. Enable **GitHub Pages** in Settings → Pages.
-3. The website will then be accessible publicly and will appear in search engines such as Google.
-
----
-
 This biography was created with family information, official records, and public sources.
