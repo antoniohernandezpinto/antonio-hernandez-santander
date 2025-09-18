@@ -8,11 +8,5 @@ director and head of the San Luis Educational Center in Valladolid, Spain. It is
 - `foto.png`: Photograph of Antonio Hernández Santander.
 - `timeline.png`: Timeline illustrating the main milestones of his life.
 - `README.md`: Spanish description of the repository.
-
-## How to view the website
-The page can be published using **GitHub Pages**. After enabling Pages in the repository settings, it will be available at a URL such as:
-
-```
-https://antoniohernandezpinto.github.io/antonio-hernandez-santander/
 ```
 This biography was created with family information, official records, and public sources.
